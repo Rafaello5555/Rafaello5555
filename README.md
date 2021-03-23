@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on your company
 - 📫 How to reach me https://www.linkedin.com/in/rafail-mahammadli-7b48311a9/ and https://www.kaggle.com/rafailmahammadli
 
-They still watch your repository even they deny you 
+
 
 
 <!---
