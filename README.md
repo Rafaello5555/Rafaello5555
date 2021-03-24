@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as freelacer
 - 📫 How to reach me https://www.linkedin.com/in/rafail-mahammadli-7b48311a9/ and https://www.kaggle.com/rafailmahammadli
 
-
+--------------> You are all playing games. You havent noticed me yet, your turn will come  <---------
 
 
 <!---
