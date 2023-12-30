@@ -1,3 +1,17 @@
+
+      )
+     (
+        (
+    _______)_
+ .-'---------|
+( C|/\/\/\/\/|
+ '-./\/\/\/\/|
+   '_________'
+    '-------'
+
+
+
+
 - 👋 Hi, I’m @Rafaello5555
 - 👀 I’m interested in Business Data Analyst
 - 🌱 I’m currently working as freelacer
@@ -16,12 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-      )
-     (
-        (
-    _______)_
- .-'---------|
-( C|/\/\/\/\/|
- '-./\/\/\/\/|
-   '_________'
-    '-------'
+
