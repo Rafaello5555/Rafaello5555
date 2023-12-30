@@ -3,16 +3,7 @@
 - 🌱 I’m currently working as freelacer
 - 📫 How to reach me https://www.linkedin.com/in/rafail-mahammadli-7b48311a9/ and https://www.kaggle.com/rafailmahammadli
 
-                                                   )  (
-    )  (
-     (   ) )
-      ) ( (
-    _______)_
- .-'---------|       
-( C|/\/\/\/\/|
- '-./\/\/\/\/|
-   '_________'
-    '-------'
+
     
 
 <!---
