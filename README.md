@@ -1,19 +1,10 @@
 
-      )
-     (
-        (
-    _______)_
- .-'---------|
-( C|/\/\/\/\/|
- '-./\/\/\/\/|
-   '_________'
-    '-------'
 
 
 
 
 - 👋 Hi, I’m @Rafaello5555
-- 👀 I’m interested in Business Data Analyst
+- 👀 I’m interested in AI, machine learning.
 - 🌱 I’m currently working as freelacer
 - 📫 How to reach me https://www.linkedin.com/in/rafail-mahammadli-7b48311a9/ and https://www.kaggle.com/rafailmahammadli
 
